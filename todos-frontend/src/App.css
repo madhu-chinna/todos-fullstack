@@ -1,0 +1,10 @@
+.main-conatiner{
+  background-color: rgb(147, 147, 199);
+  min-height: 100vh;
+  width:100vw;
+  margin-top: 0px;
+}
+
+.main-heading{
+  text-align: center;
+}

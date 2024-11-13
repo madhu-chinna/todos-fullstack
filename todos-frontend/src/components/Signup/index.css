@@ -1,0 +1,52 @@
+.signup-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+  }
+  .signup-form input, .signup-form button {
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  .header-title {
+    font-size: 35px;
+    margin-top: 20px;
+    color: aliceblue;
+    text-align: center;
+  }
+
+  .sign-up-heading{
+    font-size: 28px;
+    margin-top: 20px;
+    color: aliceblue;
+    text-align: center;
+  }
+
+  .have-account-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .have-account{
+    font-size: 24px;
+    margin: 0;
+    color: aliceblue;
+    text-align: center;
+  }
+
+  .err-message{
+    font-size: 14px;
+    margin: 0;
+    color: red;
+    text-align: center;
+  }
+
+  .err-message-2{
+    font-size: 24px;
+    margin: 0;
+    color: red;
+    text-align: center;
+  }
+  
